@@ -17,7 +17,7 @@ To run this project, you’ll need to install the following dependencies:
 pip install pandas matplotlib seaborn scikit-learn joblib streamlit
 ```
 
-📊 Features
+## 📊 Features
 
 Class Distribution Visualization: Shows the imbalance in the dataset.
 
@@ -27,7 +27,7 @@ Evaluation: Includes classification report, confusion matrix, and precision-reca
 
 Streamlit App: A simple web interface to input transaction details and detect fraud in real-time.
 
-📂 Files
+## 📂 Files
 
 train_model.py: Script to train the logistic regression model and save it as model.pkl.
 
