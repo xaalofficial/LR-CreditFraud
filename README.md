@@ -18,6 +18,7 @@ pip install pandas matplotlib seaborn scikit-learn joblib streamlit
 ```
 
 📊 Features
+
 Class Distribution Visualization: Shows the imbalance in the dataset.
 
 Model Training: Logistic regression trained on selected features from the dataset.
@@ -27,6 +28,7 @@ Evaluation: Includes classification report, confusion matrix, and precision-reca
 Streamlit App: A simple web interface to input transaction details and detect fraud in real-time.
 
 📂 Files
+
 train_model.py: Script to train the logistic regression model and save it as model.pkl.
 
 creditcard.csv: The dataset containing credit card transactions.
