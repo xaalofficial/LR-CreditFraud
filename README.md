@@ -43,7 +43,13 @@ pip install pandas matplotlib seaborn scikit-learn joblib streamlit
 
 **app.py**: Streamlit app to input transaction details and detect fraud in real-time.
 
-o Run
+## 📁 Dataset
+
+The dataset (`creditcard.csv`) isn't included here due to size limits.
+
+🔗 [Download it from Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) and drop it in the project folder before running the training script.
+
+## 🛠️ How to Run
 **Train the model**: Run the following command to train the logistic regression model and save it as model.pkl:
 ```bash
 python train_model.py
